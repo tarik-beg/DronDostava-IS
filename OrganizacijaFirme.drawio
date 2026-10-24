@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="qgFkqxoTKMqUYVZiBIf6">
+    <mxGraphModel dx="1880" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Kjxn7SFrx1ZM0BpL0S22-10" edge="1" parent="1" source="Kjxn7SFrx1ZM0BpL0S22-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;endArrow=none;endFill=0;" target="Kjxn7SFrx1ZM0BpL0S22-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Kjxn7SFrx1ZM0BpL0S22-11" edge="1" parent="1" source="Kjxn7SFrx1ZM0BpL0S22-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;endArrow=none;endFill=0;" target="Kjxn7SFrx1ZM0BpL0S22-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Kjxn7SFrx1ZM0BpL0S22-12" edge="1" parent="1" source="Kjxn7SFrx1ZM0BpL0S22-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;endArrow=none;endFill=0;" target="Kjxn7SFrx1ZM0BpL0S22-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Kjxn7SFrx1ZM0BpL0S22-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Direktor&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;i&gt;Sponzor projekta&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Kjxn7SFrx1ZM0BpL0S22-13" edge="1" parent="1" source="Kjxn7SFrx1ZM0BpL0S22-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;endArrow=none;endFill=0;" target="Kjxn7SFrx1ZM0BpL0S22-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Kjxn7SFrx1ZM0BpL0S22-14" edge="1" parent="1" source="Kjxn7SFrx1ZM0BpL0S22-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;endArrow=none;endFill=0;" target="Kjxn7SFrx1ZM0BpL0S22-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Kjxn7SFrx1ZM0BpL0S22-15" edge="1" parent="1" source="Kjxn7SFrx1ZM0BpL0S22-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;endArrow=none;endFill=0;" target="Kjxn7SFrx1ZM0BpL0S22-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Kjxn7SFrx1ZM0BpL0S22-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Operativni menadžer&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;i&gt;Vlasnik procesa dostave&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="110" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="Kjxn7SFrx1ZM0BpL0S22-16" edge="1" parent="1" source="Kjxn7SFrx1ZM0BpL0S22-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;endArrow=none;endFill=0;" target="Kjxn7SFrx1ZM0BpL0S22-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Kjxn7SFrx1ZM0BpL0S22-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Finansijski menadžer&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;i&gt;Finansije, prodaja, ugovori&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="440" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="Kjxn7SFrx1ZM0BpL0S22-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="IT podrška&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;i&gt;2 osobe - nalozi, mreža, API&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="640" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="Kjxn7SFrx1ZM0BpL0S22-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Prodaja i administracija&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;i&gt;4 osobe - ugovori i fakture&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="440" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="Kjxn7SFrx1ZM0BpL0S22-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Dispečerski centar&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;i&gt;4 osobe - narudžbe i dodjela&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="-50" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="Kjxn7SFrx1ZM0BpL0S22-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Operateri dronova&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;i&gt;8 osoba - letovi i isporuke&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="110" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="Kjxn7SFrx1ZM0BpL0S22-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Tehnička služba&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;i&gt;4 osobe - servis i baterije&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="270" y="350" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
