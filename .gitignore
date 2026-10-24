@@ -1,0 +1,8 @@
+# Word privremeni i lock fajlovi
+~$*
+~WRL*.tmp
+*.tmp
+
+# draw.io backup fajlovi
+*.bkp
+.$*
